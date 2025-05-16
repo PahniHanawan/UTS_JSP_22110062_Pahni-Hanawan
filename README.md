@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eb8573ec-1fc0-4ee7-8466-038c755dbc40)# UTS_JSP_22110062_Pahni-Hanawan
+![gambar 1](https://github.com/user-attachments/assets/6f57c95d-59ab-44fe-8925-faa066164cf8)# UTS_JSP_22110062_Pahni-Hanawan
 UTS Membuat Sistem Tiket Bioskop
 
 Aplikasi Pemesanan Tiket Bioskop Berbasis JSP (Java Server Pages) Tanpa Database
@@ -58,4 +58,6 @@ Masukkan kode lengkap dari Film.java, index.jsp, dan file JSP lainnya.
 Jalankan Project
 Klik kanan pada project > Run
 Browser akan terbuka dan menampilkan index.jsp (daftar film)
+![gambar 1](https://github.com/user-attachments/assets/4336a749-cced-4001-9ad2-8bc5e244b622)
 
+Form Pemesanan
