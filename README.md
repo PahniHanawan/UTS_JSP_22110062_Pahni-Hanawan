@@ -61,3 +61,9 @@ Browser akan terbuka dan menampilkan index.jsp (daftar film)
 ![gambar 1](https://github.com/user-attachments/assets/4336a749-cced-4001-9ad2-8bc5e244b622)
 
 Form Pemesanan
+![gambar 2](https://github.com/user-attachments/assets/0f9f5b0a-0e2c-4a48-88ac-127077a7402a)
+
+Struk Pemesanan
+
+![gambar 3](https://github.com/user-attachments/assets/226a5617-aca5-4d2c-a39e-ac77861540e0)
+
