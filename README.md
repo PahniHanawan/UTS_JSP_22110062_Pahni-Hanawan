@@ -1,4 +1,4 @@
-![gambar 1](https://github.com/user-attachments/assets/6f57c95d-59ab-44fe-8925-faa066164cf8)# UTS_JSP_22110062_Pahni-Hanawan
+# UTS_JSP_22110062_Pahni-Hanawan
 UTS Membuat Sistem Tiket Bioskop
 
 Aplikasi Pemesanan Tiket Bioskop Berbasis JSP (Java Server Pages) Tanpa Database
